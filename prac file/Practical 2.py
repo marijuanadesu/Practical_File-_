@@ -1,3 +1,6 @@
+#PRACTICAL 2
+#Define a function to count words from the 
+#text file poem.txt.
 def red1():
     obj=open("poem.txt","r")
     data=obj.read()

@@ -1,4 +1,3 @@
-poem.txt
 this is a sample file named as poem 
 abc123 
 def456

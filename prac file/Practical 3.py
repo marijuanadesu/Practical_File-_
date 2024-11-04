@@ -1,4 +1,6 @@
 #PRACTICAL 3
+#Define a function to add even and odd 
+#elements of list separately and print the sum.
 def add():
     sume=sumo=0
     list=[0,1,2,3,4,5,6,7,8,9]

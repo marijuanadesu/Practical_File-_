@@ -1,4 +1,6 @@
 #PRACTICAL 1
+#Define a function to count number of alphabets, digits,
+# alphanumeric characters from the text file story.txt
 def countdata():
     f=open("story.txt","r")
     ca=cd=cad=0
