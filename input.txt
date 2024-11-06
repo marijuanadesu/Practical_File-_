@@ -1,0 +1,5 @@
+This is text file.
+It contains multiple lines of text.
+Each line is separated by a newline character. 
+Python makes text file convenient and intuitive. 
+ENJOY coding!
