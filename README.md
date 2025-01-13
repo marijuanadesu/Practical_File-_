@@ -9,7 +9,7 @@ sum .
 binary file record.dat and also create a function to fetch all records having age
 greater than 35.
 5. Read a text file line by line and display each word separated by a #.
-6. Read a text file and display the number of vowels/consonants/uppercase/
+6. Read a text file and display the number of vowels,consonants,uppercase and 
 lowercase characters in the file.
 7. Remove all the lines that contain the character'a' in a file and write it to another
 file.
